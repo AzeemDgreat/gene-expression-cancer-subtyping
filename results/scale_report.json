@@ -1,0 +1,11 @@
+{
+  "n_samples": 801,
+  "n_genes": 20531,
+  "min": 0.0,
+  "max": 20.77882957458496,
+  "mean": 6.443322266374227,
+  "non_negative": true,
+  "integer_like": false,
+  "fraction_zero": 0.1421755512248431,
+  "verdict": "non-integer, small range: consistent with log-scale normalized data"
+}

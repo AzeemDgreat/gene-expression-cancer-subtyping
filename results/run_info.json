@@ -1,0 +1,24 @@
+{
+  "synthetic": false,
+  "seed": 42,
+  "n_splits": 5,
+  "prefilter_genes": 5000,
+  "selected_genes_per_fold": 500,
+  "n_samples": 801,
+  "n_genes": 20531,
+  "class_counts": {
+    "BRCA": 300,
+    "COAD": 78,
+    "KIRC": 146,
+    "LUAD": 141,
+    "PRAD": 136
+  },
+  "genes_q_lt_0_05_kruskal": 19670,
+  "best_model_by_accuracy": "mlp_torch",
+  "runtime_seconds": 338.9,
+  "python": "3.11.0",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "scikit_learn": "1.9.1",
+  "torch": "2.14.1+cpu"
+}
